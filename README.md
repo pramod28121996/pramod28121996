@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **satishvariyawork@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WGw3Fy16BOUXAk5ijU5Y2UpSwTHXMJeD/view?usp=sharing](https://drive.google.com/file/d/1WGw3Fy16BOUXAk5ijU5Y2UpSwTHXMJeD/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WGw3Fy16BOUXAk5ijU5Y2UpSwTHXMJeD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
