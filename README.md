@@ -1,11 +1,7 @@
-<h1 align="center">Hello 👋, I'm Satish Variya</h1>
-<h3 align="center">I am a hard working, honest individual freelancer.</h3>
-<div align="center">
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</div>
-
 <h1 align="center">Hey 👋, My Name Is Pramod Variya</h1>
 <h3 align="center">I am a freelancer.</h3>
+<div align="center">
+<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod28121996&label=Profile%20views&color=0e75b6&style=flat" alt="pramod28121996" /> </p>
 
@@ -34,3 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramod28121996&show_icons=true&locale=en" alt="pramod28121996" /></p>
 
+</div>
